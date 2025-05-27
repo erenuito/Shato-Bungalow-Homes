@@ -43,20 +43,6 @@ This project is a fully responsive promotional website built using HTML, CSS, an
 |:--:|
 | *Contact Section* |
 
-
----
-
-## 📁 File Structure
-
-shato-homes/
-│
-├── index.html       # Main HTML file
-├── styles.css       # Page styling
-├── scripts.js       # Modal gallery functionality
-├── /images          # Gallery and content images
-└── README.md        # This document
-
-
 ---
 
 ## 📌 Key Features

@@ -27,9 +27,11 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak responsive yapıda tasarlanmış
 
 | Ana Sayfa (Header) | Galeri | Aktiviteler | İletişim |
 |--------------------|--------|-------------|----------|
-| ![Header](./header-preview.jpg) | ![Gallery](./gallery-preview.jpg) | ![Activities](./activities-preview.jpg) | ![Contact](./contact-preview.jpg) |
-
-> *Not: Görseller yerel dosya adlarıyla çalışır; örnekler için `bun.png`, `bun1.png`, `bg.jpeg` gibi dosyalar proje dizininde yer almalıdır.*
+| ![Header]![image](https://github.com/user-attachments/assets/103f6a0b-adb7-43ad-8cf7-eee86f47b81e)
+ | ![Gallery]![image](https://github.com/user-attachments/assets/bb9ba4d8-d271-4dd8-99a9-826ee264e8ee)
+ | ![Activities](![image](https://github.com/user-attachments/assets/32ecbfb2-bda8-448a-907e-3845ad4d2d2f)
+) | ![Contact]![image](https://github.com/user-attachments/assets/a314ab77-7b13-4bc3-ab2b-7d781cc063f1)
+ |
 
 ---
 

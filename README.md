@@ -1,25 +1,27 @@
 # 🏡 Shato Bungalow Homes
 
-Shato Bungalow Homes, İstanbul'un incisi Ağva'da doğayla iç içe, huzurlu ve konforlu bir tatil deneyimi sunan modern ve şık bir bungalov konaklama konseptini tanıtan bir tanıtım web sitesidir.
+Shato Bungalow Homes is a modern and stylish promotional website that introduces a cozy bungalow accommodation concept in Ağva, the jewel of Istanbul, offering a peaceful and comfortable vacation experience in harmony with nature.
 
-![Shato Logo](./shato.png)
+![Shato Logo]![shato](https://github.com/user-attachments/assets/71463b9e-93d0-4190-9f5c-c82c2625219a)
+
+
+⚠️ This site is still under construction and not yet published.
+---
+
+## 🌿 About the Project
+
+This project is a fully responsive promotional website built using HTML, CSS, and JavaScript. Visitors can view images of Shato Bungalow Homes, explore available services, discover nearby activities, and easily access contact information.
 
 ---
 
-## 🌿 Proje Hakkında
+## 🛠️ Technologies Used
 
-Bu proje, HTML, CSS ve JavaScript kullanılarak responsive yapıda tasarlanmış bir tanıtım sitesidir. Kullanıcılar sitede Shato Bungalov Evleri'nin görsellerini inceleyebilir, sunulan hizmetleri öğrenebilir, yakın çevrede yapılabilecek aktiviteleri keşfedebilir ve iletişim bilgilerine kolaylıkla ulaşabilir.
-
----
-
-## 🛠️ Kullanılan Teknolojiler
-
-- 🧱 **HTML5** – Yapı ve içerik.
-- 🎨 **CSS3** – Stil ve düzen (responsive design).
-- ⚙️ **JavaScript** – Galeri için modal işlevi (scripts.js).
-- 🖼️ **Google Fonts** – Poppins & Playfair Display fontları.
-- 📍 **Google Maps** – Harita entegrasyonu ile lokasyon bilgisi.
-- 🌐 **Font Awesome** – İkon kullanımı için.
+- 🧱 **HTML5** – Structure and content.
+- 🎨 **CSS3** – Styling and layout (responsive design).
+- ⚙️ **JavaScript** – Modal functionality for the gallery (scripts.js).
+- 🖼️ **Google Fonts** – Poppins & Playfair Display fonts.
+- 📍 **Google Maps** – Location info via map integration.
+- 🌐 **Font Awesome** – Icon support.
 
 ---
 
@@ -48,39 +50,39 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak responsive yapıda tasarlanmış
 
 shato-homes/
 │
-├── index.html # Ana HTML sayfası
-├── styles.css # Sayfa tasarımı
-├── scripts.js # Modal galeri fonksiyonu
-├── /images # Galeri ve içerik görselleri
-└── README.md # Bu döküman
+├── index.html       # Main HTML file
+├── styles.css       # Page styling
+├── scripts.js       # Modal gallery functionality
+├── /images          # Gallery and content images
+└── README.md        # This document
 
 
 ---
 
-## 📌 Öne Çıkan Özellikler
+## 📌 Key Features
 
-- 🔄 **Responsive Tasarım** – Tüm cihazlarda uyumlu görünüm.
-- 🖼️ **Dinamik Galeri** – Modal ile büyük görsel gösterimi.
-- 🗺️ **Google Maps Entegrasyonu** – Lokasyon bilgisi doğrudan erişim.
-- 🛏️ **Bungalov Bilgileri ve Aktiviteler** – Kullanıcıyı bilgilendirici içerik.
-- 📲 **Kolay Navigasyon** – Sabit menü ile kullanıcı dostu gezinme.
-
----
-
-## ✉️ İletişim
-
-Eğer bu proje hakkında geri bildirim vermek isterseniz ya da katkıda bulunmak isterseniz:
-
-- 📧 Mail: [info@yasevler.com](mailto:info@yasevler.com)
-- 📸 Instagram: [@yasbungalov](https://www.instagram.com/yasbungalov)
+- 🔄 **Responsive Design** – Optimized for all devices.
+- 🖼️ **Dynamic Gallery** – Enlarged image preview with modal.
+- 🗺️ **Google Maps Integration** – Direct access to location info.
+- 🛏️ **Bungalow Info & Activities** –  Informative content for visitors.
+- 📲 **Easy Navigation** – Fixed menu for a user-friendly experience.
 
 ---
 
-## ⚖️ Lisans
+## ✉️ Contact
 
-Bu proje açık kaynak değildir. Ticari kullanım için izin gereklidir.
+If you’d like to provide feedback or contribute to the project:
+
+- 📧 EMail: [erenk958@gmail.com](mailto:erenk958@gmail.com)
+- 📸 Instagram: [@erennkaragul](https://www.instagram.com/erennkaragul)
 
 ---
 
-> Hazırlayan: **Cemal Eren Karagül**  
-> 2025 – Tüm Hakları Saklıdır.  
+## ⚖️ License
+
+This project is not open-source. Commercial use requires permission.
+
+---
+
+> Developed by **Cemal Eren Karagul**  
+> © 2025 – All Rights Reserved.

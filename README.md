@@ -2,7 +2,7 @@
 
 Shato Bungalow Homes is a modern and stylish promotional website that introduces a cozy bungalow accommodation concept in Ağva, the jewel of Istanbul, offering a peaceful and comfortable vacation experience in harmony with nature.
 
-![shato](<img src="https://github.com/user-attachments/assets/71463b9e-93d0-4190-9f5c-c82c2625219a" alt="Shato Logo" width="150" />)
+![shato](<img src="shato.png" alt="Shato Logo" width="150" />)
 
 
 ⚠️ This site is still under construction and not yet published.

@@ -25,13 +25,22 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak responsive yapıda tasarlanmış
 
 ## 📸 Ekran Görüntüleri
 
-| Ana Sayfa (Header) | Galeri | Aktiviteler | İletişim |
-|--------------------|--------|-------------|----------|
-| ![Header]![image](https://github.com/user-attachments/assets/103f6a0b-adb7-43ad-8cf7-eee86f47b81e)
- | ![Gallery]![image](https://github.com/user-attachments/assets/bb9ba4d8-d271-4dd8-99a9-826ee264e8ee)
- | ![Activities](![image](https://github.com/user-attachments/assets/32ecbfb2-bda8-448a-907e-3845ad4d2d2f)
-) | ![Contact]![image](https://github.com/user-attachments/assets/a314ab77-7b13-4bc3-ab2b-7d781cc063f1)
- |
+| ![Header](https://github.com/user-attachments/assets/103f6a0b-adb7-43ad-8cf7-eee86f47b81e) |
+|:--:|
+| *Header Section* |
+
+| ![Gallery](https://github.com/user-attachments/assets/bb9ba4d8-d271-4dd8-99a9-826ee264e8ee) |
+|:--:|
+| *Gallery Section* |
+
+| ![Activities](https://github.com/user-attachments/assets/32ecbfb2-bda8-448a-907e-3845ad4d2d2f) |
+|:--:|
+| *Nearby Activities* |
+
+| ![Contact](https://github.com/user-attachments/assets/a314ab77-7b13-4bc3-ab2b-7d781cc063f1) |
+|:--:|
+| *Contact Section* |
+
 
 ---
 

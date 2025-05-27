@@ -25,7 +25,7 @@ This project is a fully responsive promotional website built using HTML, CSS, an
 
 ---
 
-## 📸 Ekran Görüntüleri
+## 📸 Screenshots
 
 | ![Header](https://github.com/user-attachments/assets/103f6a0b-adb7-43ad-8cf7-eee86f47b81e) |
 |:--:|
@@ -46,7 +46,7 @@ This project is a fully responsive promotional website built using HTML, CSS, an
 
 ---
 
-## 📁 Dosya Yapısı
+## 📁 File Structure
 
 shato-homes/
 │
